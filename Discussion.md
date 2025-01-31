@@ -44,4 +44,4 @@ this approach is **2-5x faster than the standard multi-threaded version** due to
 reduced disk reads and efficient parallel processing. 🚀
 
 
-I will chose the final fourth solution because it is the most optimised one and can easily run over a file of 1TB
+I will chose the final **fourth solution** because it is the most optimised one and can easily run over a file of** 1TB**.
